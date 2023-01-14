@@ -1,0 +1,3 @@
+C:/Users/1381m/CLionProjects/untitled9/KD_tree-implemention/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/1381m/CLionProjects/untitled9/KD_tree-implemention/cmake-build-debug/CMakeFiles/KD_tree_implemention.dir
+C:/Users/1381m/CLionProjects/untitled9/KD_tree-implemention/cmake-build-debug/CMakeFiles/edit_cache.dir
