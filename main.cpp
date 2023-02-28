@@ -45,7 +45,6 @@ Node* insertRec(Node *root, int point[], unsigned depth)
 
 // Function to insert a new point with given point in
 // KD Tree and return new root. It mainly uses above recursive
-// function "insertRec()"
 Node* insert(Node *root, int point[])
 {
     return insertRec(root, point, 0);
